@@ -1725,6 +1725,10 @@ display:flex;
 .btnHoteles:hover{
   text-decoration:none;
   color: #001f3b;
+   border-top: 2px solid #001f3b;
+  border-bottom: 2px solid #001f3b;
+  border-right: 2px solid #001f3b;
+  border-left: 2px solid #001f3b;
   border-color: #001f3b;
   background-color: white;
 
