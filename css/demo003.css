@@ -21,7 +21,7 @@ background-color: white;
 }
 .imagenPortada{
 
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 .portada{
@@ -32,9 +32,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 background-size: 100%; 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 }
 
 .contenido{
@@ -1526,9 +1526,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 background-repeat: no-repeat;
 background-size: 35%;
 background-position: center;
@@ -2366,9 +2366,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 background-repeat: no-repeat;
 background-size: 50%;
 background-position-x: center;
@@ -2410,9 +2410,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 background-repeat: no-repeat;
 background-size: 50%;
 background-position-x: center;
@@ -2454,9 +2454,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 background-repeat: no-repeat;
 background-size: 40%;
 background-position-x: center;
@@ -2498,9 +2498,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 background-repeat: no-repeat;
 background-size: 50%;
 background-position-x: center;
@@ -2542,9 +2542,9 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpeg); 
+background-image: url(../img/A&E-1346.png); 
 position: relative; 
-background-attachment: fixed;
+background-attachment: scroll;
 background-repeat: no-repeat;
 background-size: 50%;
 background-position-x: center;
